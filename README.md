@@ -1,3 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eityamo&theme=dark
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eityamo&theme=radical
 )](https://github.com/anuraghazra/github-readme-stats)
 
