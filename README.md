@@ -1,7 +1,7 @@
 <p>
 </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="left" height="236px" src="https://raw.githubusercontent.com/eityamo/eityamo/main/profile-summary-card-output/solarized/0-profile-details.svg" style="max-width: 100%;" />
+  <img align="left" height="173px" src="https://raw.githubusercontent.com/eityamo/eityamo/main/profile-summary-card-output/solarized/0-profile-details.svg" style="max-width: 100%;" />
 </a>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img align="left" height="170px" src="https://raw.githubusercontent.com/eityamo/eityamo/main/profile-summary-card-output/solarized/1-repos-per-language.svg" style="max-width: 100%;" />
