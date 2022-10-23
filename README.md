@@ -1,6 +1,6 @@
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aiandrox&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiandrox&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eityamo&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eityamo&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 個人開発
 
