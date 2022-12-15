@@ -4,7 +4,7 @@
 
 ## 個人開発
 
-| [ホットスナック美術館]([https://hotsnack.magia.runteq.jp/)) | [反抗期届]([https://hankouki.magia.runteq.jp/]) |
+| [ホットスナック美術館]([https://hotsnack.magia.runteq.jp/) | [反抗期届]([https://hankouki.magia.runteq.jp/]) |
 | :---------- | :-------- |
 | <img src="https://github.com/eityamo/hotsnack-gallery/blob/main/public/img/ogp.jpeg"> | <img src="https://github.com/eityamo/hankouki/blob/main/app/assets/images/ogp.png"> |
 | ホットスナックを額縁に入れることで美術的価値を高めてじっくり鑑賞してもらうサービス | 反抗期を宣言する届出を簡単にPDF化するアプリ |
