@@ -15,7 +15,7 @@
 
 ## チーム開発
 
-| [NewBeLab](https://new-be-lab.magia.runteq.jp/)|  |
+| [NewBeLab](https://new-be-lab.magia.runteq.jp/)|
 | :----------: |
 | チーム開発に興味はある・やってみたい方を対象に、開発チーム作成の支援を行うアプリ |
 | Ruby on Rails, Vue.js, heroku  |
