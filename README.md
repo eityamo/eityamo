@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F75C7E&vCenter=true&width=400&lines=Thanks+world%2C+I'm+eityamo+%F0%9F%91%8B)](https://github.com/eityamo)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F75C7E&vCenter=true&width=400&lines=Thanx+world%2C+I'm+eityamo+%F0%9F%91%8B)](https://github.com/eityamo)
 
 ### Languages
 
