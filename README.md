@@ -37,11 +37,3 @@
 <a href="https://github.com/eityamo">
   <img src="https://streak-stats.demolab.com/?user=eityamo&theme=solarized-light&hide_border=true" />
 </a>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eityamo/eityamo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eityamo/eityamo/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/eityamo/eityamo/output/github-snake.svg" />
-</picture>
