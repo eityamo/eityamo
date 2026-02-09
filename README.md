@@ -9,7 +9,7 @@
 
 <!-- GitHub Trophy -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=eityamo&theme=radical&no-frame=true&row=1&column=7" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=eityamo&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
 </a>
 
 ---
@@ -26,7 +26,7 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=eityamo&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=eityamo&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=eityamo&theme=radical&hide_border=true" alt="GitHub Streak" />
 </a>
 
 ---
